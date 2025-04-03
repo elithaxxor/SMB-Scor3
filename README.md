@@ -1,4 +1,7 @@
-Here's a `README.md` file for your repository, explaining the purpose and usage of the `smb_score.py` script:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05436e17-5476-4ff7-8ae4-baa40362a189" alt="02logo" width="200"/>
+</p>
+
 
 ```markdown
 # SMB-Scor3
