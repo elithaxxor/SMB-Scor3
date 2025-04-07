@@ -1,4 +1,7 @@
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05436e17-5476-4ff7-8ae4-baa40362a189" alt="02logo" width="200"/>
+</p>
+```
 
 ```markdown
 # SMB-Scor3
@@ -6,10 +9,7 @@
 SMB-Scor3 is a comprehensive tool designed for network enumeration, vulnerability assessment, and reporting, specifically targeting SMB (Server Message Block) services. This script integrates various functionalities to log activities, discover SMB hosts, perform enumeration, run advanced Nmap scans, integrate with Metasploit, and calculate vulnerability scores.
 ```
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/05436e17-5476-4ff7-8ae4-baa40362a189" alt="02logo" width="200"/>
-</p>
-```
+
 # SMB-Scor3
 
 A comprehensive SMB network enumeration, vulnerability assessment, and scoring tool.
