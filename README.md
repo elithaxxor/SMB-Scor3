@@ -8,8 +8,6 @@
 
 SMB-Scor3 is a comprehensive tool designed for network enumeration, vulnerability assessment, and reporting, specifically targeting SMB (Server Message Block) services. This script integrates various functionalities to log activities, discover SMB hosts, perform enumeration, run advanced Nmap scans, integrate with Metasploit, and calculate vulnerability scores.
 ```
-
-
 # SMB-Scor3
 
 A comprehensive SMB network enumeration, vulnerability assessment, and scoring tool.
