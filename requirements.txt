@@ -1,0 +1,16 @@
+os
+re
+sys
+sqlite3
+logging
+subprocess
+enum34
+datetime
+concurrent.futures
+matplotlib
+impacket
+nmap
+crackmapexec
+enum4linux
+msfconsole
+shutil
